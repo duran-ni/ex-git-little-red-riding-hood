@@ -101,3 +101,25 @@ h2 {
     border-radius: 0 4px 4px 0;   
     color: #444;                  
 }
+
+.btn-leyendas {
+    appearance: none;
+    border: none;     
+    background-color: #1b4d2e;                  
+    cursor: pointer;           
+    color: #ffffff;           
+    padding: 12px 24px;       
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;         
+    text-transform: uppercase;        
+    border-bottom: 4px solid #0d2b1a;
+    border-radius: 2px;          
+    display: inline-block;
+    margin-top: 25px;          
+}
+.btn-leyendas:hover {
+    background-color: rgb(156, 22, 22); 
+}
+
+
