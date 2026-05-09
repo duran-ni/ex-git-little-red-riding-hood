@@ -122,4 +122,26 @@ h2 {
     background-color: rgb(156, 22, 22); 
 }
 
+.footer-piepagina p{
+    background-color: #f9f9f4;
+    padding: 40px 0 10px 0;
+    text-align: center;
+    color: black;
+    margin: 0;
+
+}
+
+.footer-links{
+    background-color: #f9f9f4;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding-bottom: 40px;
+}
+
+.footer-links a {
+    color: black;
+    text-decoration: none;     /* Quita el subrayado para que sea más limpio */
+    font-size: 14px;
+}
 
