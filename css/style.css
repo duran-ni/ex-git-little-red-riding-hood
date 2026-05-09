@@ -65,3 +65,13 @@ h2 {
     margin-left: 0;
     margin-right: 20px;
 }
+
+.destacado{
+    font-style: italic;           
+    background-color: #f0f0f0;    
+    padding: 20px;                
+    border-left: 5px solid #1a472a; 
+    margin: 20px 0;               
+    border-radius: 0 4px 4px 0;   
+    color: #444;                  
+}
