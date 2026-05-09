@@ -9,6 +9,32 @@ body {
     padding: 0;
 }
 
+.menu-navegacion {
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 30px;
+}
+
+.menu-navegacion ul {
+    list-style: none; 
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 0;
+}
+
+.menu-navegacion a {
+    text-decoration: none;
+    color: #1a472a; 
+    font-weight: bold;
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+}
+
+.menu-navegacion a:hover {
+    color: #8b0000; 
+}
+
 header {
     text-align: center;
     padding: 50px 20px;
