@@ -53,3 +53,5 @@ HTML Semántico: Usaré etiquetas <header>, <main>, <section> para cada capítul
 CSS Layout: Utilizaré Flexbox o CSS Grid para lograr el efecto de alternancia entre texto e imágenes que se ve en el diseño.
 
 Estética: Se aplicará una paleta de colores minimalista (blanco, negro y gris) como se ve en el wireframe, o se añadirá color según la temática del cuento.
+
+![Captura final del proyecto](assets/Captura final.png)
