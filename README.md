@@ -54,4 +54,6 @@ CSS Layout: Utilizaré Flexbox o CSS Grid para lograr el efecto de alternancia e
 
 Estética: Se aplicará una paleta de colores minimalista (blanco, negro y gris) como se ve en el wireframe, o se añadirá color según la temática del cuento.
 
-![Captura final del proyecto](assets/Captura final.png)
+
+<img width="551" height="463" alt="Captura de pantalla (701)" src="https://github.com/user-attachments/assets/a0473a70-ae9d-4187-a8e0-51d4b6d333d7" />
+
